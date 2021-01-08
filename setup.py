@@ -14,6 +14,8 @@ setuptools.setup(
         # 'pandas_market_calendars',
         'requests',
         'joblib',
+        'pandas',
+        'numpy',
     ],
     author="Eric M. Klingensmith",
     author_email="eric.m.klingensmith@gmail.com",
