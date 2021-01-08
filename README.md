@@ -6,6 +6,14 @@ This library is intended to serve as a simplified interface for the [OmniEQ](htt
 
 Detailed documentation on how to use the API can be found [here](https://omnieq.com/about).
 
+## Installation
+
+Package available from [source](https://github.com/eklingen88/omnieq-python-api) or [PyPi](https://pypi.org/project/omnieq-api/).
+
+```
+pip install omnieq-api
+```
+
 ## Usage
 
 Please see _notebook/usage.ipynb_.
